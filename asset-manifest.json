@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-04-images/static/js/main.dfe7f29e.js",
+    "index.html": "/goit-react-hw-04-images/index.html",
+    "static/media/SearchIcon.svg": "/goit-react-hw-04-images/static/media/SearchIcon.4f4f36e8a0b1112040d6c60c04d118a9.svg",
+    "main.dfe7f29e.js.map": "/goit-react-hw-04-images/static/js/main.dfe7f29e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dfe7f29e.js"
+  ]
+}
